@@ -25,9 +25,7 @@
     <a href="https://github.com/harshmehta813/Portfolio/issues">Request Feature</a>
 </h3>
 
-## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [harshmehta813](https://github.com/harshmehta813/Portfolio). Thanks!
 
 ## Built With
 
@@ -36,22 +34,8 @@ My personal portfolio <a href="https://harshme.vercel.app/" target="_blank"></a>
 This project was built using these technologies.
 
 - React.js
-- Node.js
-- Express.js
 - CSS3
+- Html
+- js
 - VsCode
-- Vercel
 
-## Features
-
-**📖 Multi-Page Layout**
-
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
-
-**📱 Fully Responsive**
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/harshme" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
